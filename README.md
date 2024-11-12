@@ -1,4 +1,4 @@
 # demo
 to learn GitHub
 <br>
-Author-Arsalan Pasha.M
+Author-Arsalan Pasha.M (Acharya)
